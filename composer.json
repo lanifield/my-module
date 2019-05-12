@@ -1,0 +1,33 @@
+{
+  "name": "lanifield/my-module",
+	"type": "silverstripe-vendormodule",
+  "description": "My first SilverStripe module.",
+    "homepage": "http://github.com/lanifield/my-module",
+    "keywords": [
+      "silverstripe"
+    ],
+  "license": "BSD-3-Clause",
+  "authors": [
+    {
+      "name": "Lani Field"
+    }
+  ],
+  "support": {
+    "issues": "http://github.com/lanifield/my-module/issues",
+    "docs": "http://github.com/lanifield/my-module//docs/en/userguide.md"
+  },
+  "require": {
+    "silverstripe/recipe-cms": "^4.0",
+    "silverstripe/vendor-plugin": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "LaniField\\MyModule\\": "src/"
+    }
+  },
+  "extra": {
+    "expose": [
+      "client"
+    ]
+  }
+}

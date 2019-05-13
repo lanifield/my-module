@@ -1,0 +1,10 @@
+---
+Name: 'Signify_Social'
+Ater:
+  - 'framework/*'
+  - 'cms/*'
+---
+
+SilverStripe\SiteConfig\SiteConfig:
+  extensions:
+    - Signify\Social\SiteConfigExtension

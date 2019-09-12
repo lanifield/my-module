@@ -1,3 +1,32 @@
+Signify\Social\SiteConfigExtension:
+  platforms:
+    - BaiduTieba
+    - DeviantArt
+    - Facebook
+    - Flickr
+    - Instagram
+    - Line
+    - LinkedIn
+    - Meetup
+    - Messenger
+    - Myspace
+    - Pinterest
+    - QQ
+    - Quora
+    - Qzone
+    - Reddit
+    - Renren
+    - SinaWeibo
+    - SoundCloud
+    - TikTok
+    - Tumblr
+    - Twitter
+    - Vimeo
+    - WeChat
+    - WhatsApp
+    - YouTube
+    - Yelp
+
 SilverStripe\SiteConfig\SiteConfig:
   extensions:
     - Signify\Social\SiteConfigExtension

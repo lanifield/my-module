@@ -1,25 +1,33 @@
+[![Latest Stable Version](https://poser.pugx.org/lanifield/my-module/v/stable)](https://packagist.org/packages/lanifield/my-module)
+[![Build Status](https://travis-ci.com/lanifield/my-module.svg?branch=master)](https://travis-ci.org/lanifield/my-module)
+[![codecov](https://codecov.io/gh/lanifield/my-module/branch/master/graph/badge.svg)](https://codecov.io/gh/lanifield/my-module)
+
 # my-module
 My first SilverStripe module.
 
 ## Installation
 ### Requirements
-* SilverStripe CMS ^4
+[SilverStripe CMS ^4](https://github.com/silverstripe/silverstripe-cms)
 
 ### Composer
-```
+```sh
 composer require lanifield/my-module
 ```
 
-## Usage
+## Documentation
+### Usage
 Examples with screenshots, configuration notes etc.
 
 For more detail, please read the [User Guide](/docs/en/userguide.md).
 
-## Contributing
-Please read the [contributing](./CONTRIBUTING.md) document for guidelines on reporting [issues](https://github.com/lanifield/my-module/issues) or submitting pull requests.
+### Contributing
+[Guidelines for contributions and submitting pull requests](./CONTRIBUTING.md)
 
-## Changelog
+### Changelog
 [Initial development](./CHANGELOG.md)
 
-## License
+### Issues
+[Report an issue](https://github.com/lanifield/my-module/issues)
+
+### License
 [BSD 3-Clause License](./LICENSE)

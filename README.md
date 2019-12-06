@@ -1,5 +1,5 @@
-[![Latest Stable Version](https://poser.pugx.org/lanifield/my-module/v/stable)](https://packagist.org/packages/lanifield/my-module)
 [![Build Status](https://travis-ci.com/lanifield/my-module.svg?branch=master)](https://travis-ci.org/lanifield/my-module)
+[![Latest Stable Version](https://poser.pugx.org/lanifield/my-module/v/stable)](https://packagist.org/packages/lanifield/my-module)
 [![Latest Unstable Version](https://poser.pugx.org/lanifield/my-module/v/unstable)](https://packagist.org/packages/lanifield/my-module)
 [![codecov](https://codecov.io/gh/lanifield/my-module/branch/master/graph/badge.svg)](https://codecov.io/gh/lanifield/my-module)
 [![License](https://poser.pugx.org/lanifield/my-module/license)](https://packagist.org/packages/lanifield/my-module)

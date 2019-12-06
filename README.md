@@ -3,7 +3,7 @@
 [![codecov](https://codecov.io/gh/lanifield/my-module/branch/master/graph/badge.svg)](https://codecov.io/gh/lanifield/my-module)
 
 # my-module
-My first SilverStripe module.
+My SilverStripe vendor-module template.
 
 ## Installation
 ### Requirements
